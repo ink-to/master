@@ -236,7 +236,10 @@ a:focus, button:focus,span:focus, p:focus,div:focus {
 }
 img,iframe {
   max-width:100%;
-  border-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px
 }
 .row {
 	margin:0px !important;
