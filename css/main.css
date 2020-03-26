@@ -359,6 +359,16 @@ img.cover-image {
 	background-image: linear-gradient(transparent, rgba(0,0,0, .4), rgba(0,0,0, 1));
 }
 
+.overlayevent {
+  content:' ';
+  position:absolute;
+  top:0px;
+  left:10px;
+  width:360px;
+  height:360px;
+  background-image: linear-gradient(transparent, rgba(0,0,0, .4), rgba(0,0,0, 1));
+}
+
 	
 .event-cover .overlay{
 	left:0px;
