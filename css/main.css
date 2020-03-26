@@ -388,7 +388,7 @@ img.cover-image {
 .video {
     padding-top: 0px;
     padding-right: 0px;
-    padding-bottom: 22px;
+    padding-bottom: 23px;
     padding-left: 0px;
     font-size: 15px;
     color: #ffffff;
@@ -656,8 +656,8 @@ img.cover-image {
 
 }
 .youtube .video p,.youtube .song p {
-    margin-top: -15px;
-    margin-bottom: 27px;
+    margin-top: -17px;
+    margin-bottom: 28px;
     display: block;
     padding: 10px 10px;
     background-color: #212121;
