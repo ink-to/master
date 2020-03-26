@@ -334,7 +334,7 @@ img.cover-image {
 }
 .event-cover img.cover-image {
 	width:360px;
-	height:235px;
+	height:234px;
   border-radius: 0px;
 }
 .event-cover img.cover-image .overlay {
@@ -437,7 +437,7 @@ img.cover-image {
 	margin:5px 0px !important;
 }
 .empty-wide {
-    height: 120px;
+    height: 110px;
     text-align: center;
 	margin:7.5px 0px !important;
 	border:0px solid #ccc;
