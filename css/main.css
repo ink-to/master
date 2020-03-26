@@ -62,7 +62,7 @@ a:focus, button:focus,span:focus, p:focus,div:focus {
     box-shadow: rgba(25, 29, 33, 0.5) 0px 25px 60px;
 	background-color:#111111;
 	-webkit-transform: translate3d(0, 0, 0);
-	padding-top:10px;
+	padding-top:15px;
 }
 .slick-initialized .swipe-tab-content {
   position: relative;
@@ -334,6 +334,7 @@ img.cover-image {
 	height:250px;
 }
 .overlay {
+  border-radius: 5px;
 	content:' ';
 	position:absolute;
 	top:0px;
