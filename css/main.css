@@ -646,6 +646,8 @@ img.cover-image {
     display: block;
     padding: 10px 10px;
     background-color: #212121;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px
 
 }
 .youtube .video p{
