@@ -370,6 +370,11 @@ img.cover-image {
 }
 .song p {
 	color:#fff;
+  padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  font-size:15px;
 }
 .head .title {
     color: #fff;
