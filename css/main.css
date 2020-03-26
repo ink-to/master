@@ -368,7 +368,10 @@ img.cover-image {
     text-transform: uppercase;
 }
 .song {
-	padding:10px 0px;
+	padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
 	font-size:15px;
 }
 .video {
