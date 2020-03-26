@@ -362,7 +362,8 @@ img.cover-image {
 	
 .event-cover .overlay{
 	left:0px;
-	height:250px;
+	height:250px
+  border-radius: 0px;
 }
 .cover .col-xs-12,.dates .col-xs-12 {
 	padding-left:10px;
