@@ -317,6 +317,7 @@ img.cover-image {
 	height:360px;
 	position:relative;
 	display:block;
+  border-radius: 5px;
 }
 .btn:focus {
   outline: none;
