@@ -58,7 +58,7 @@ a:focus, button:focus,span:focus, p:focus,div:focus {
     width: 100%;
     height: auto;
     overflow: visible;
-    margin: 0px auto 50px auto; 
+    margin: 0px auto 40px auto; 
     box-shadow: rgba(25, 29, 33, 0.5) 0px 25px 60px;
 	background-color:#111111;
 	-webkit-transform: translate3d(0, 0, 0);
